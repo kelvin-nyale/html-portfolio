@@ -7,7 +7,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/kelvin-nyale/html-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/kelvin-nyale/html-portfolio/"><strong>Click Here</strong></a>
 
 </div>
 
