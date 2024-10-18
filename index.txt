@@ -1,0 +1,195 @@
+Kelvin Nyale - Web Developer from Mombasa, Kenya
+
+
+
+#---------- HEADER ----------#
+
+Kelvin Nyale
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Kelvin's Photo
+
+3
+Years of Success
+
+5+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from Mombasa, Kenya
+
+Hello I'm
+
+Kelvin Nyale
+
+A Software Developer from Mombasa, Kenya
+
+An enthusiastic and motivated university student with a passion for technology and coding, seeking to build a
+career in the tech industry. I aim to leverage my education and skills in a dynamic environment, focusing on
+emerging technological advancements and innovations.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Kelvin's Photo
+
+alt = Kelvin's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Real-Life Software Applications into Solutions
+
+Aiming at growing my career in alignment with emerging technological advancements such as AI, cloud
+computing, cybersecurity and mobile applications development. My focus is on continuously adapting and
+expanding my skill-set to contribute to cutting-edge innovations.
+
+Currently open to/seeking opportunities.
+No formal work experience yet, but actively engaged in personal projects and learning initiatives.
+
+View Portfolio
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Stunning Portfolio
+
+Have a Traversal Moment on My Achievements
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+Below are My Top Skills
+
+Proficient in HTML, CSS, JavaScript, and MySQL. Knowledgeable in web design, graphics design and digital marketing.
+Actively learning CSS and JavaScript for web animations and interactions. Familiar with Bootstrap for mobile responsiveness.
+
+CSS
+60%
+
+React Front-End
+45%
+
+HTML
+90%
+
+Python
+50%
+
+PHP
+55%
+
+JavaScript
+45%
+
+
+
+#---------- CONTACT ----------#
+
+Reach out on me
+
+Get Connected with me!
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Send Message
+
+<ion-icon name="location"></ion-icon>
+Address
+001, Mombasa, Kenya
+
+<ion-icon name="mail"></ion-icon>
+Email
+kelvinnyale780@gmail.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++254 791 558 755
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Web Design
+
+Jim Morisson Says when the musics over turn off the light
+
+Software Engineering
+
+im Morisson Says when the musics over turn off the light
+
+Graphic Design
+
+im Morisson Says when the musics over turn off the light
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 Kelvin Nyale. All Rights Reserved
+
+Terms & Conditions Apply
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+SLIDE UP
